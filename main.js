@@ -578,3 +578,6 @@ if(contactForm){
     }, 400);
   });
 }
+
+// Initialize mobile navigation
+new MobileNavigation();
